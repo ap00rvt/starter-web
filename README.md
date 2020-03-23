@@ -9,4 +9,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+## Copyright
+
+this is copy right iof this document.
 ## Deployment
