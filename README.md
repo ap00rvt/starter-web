@@ -12,4 +12,9 @@ Sample website with plenty of files for demos
 ## Copyright
 
 this is copy right iof this document.
+
+## How to contribute
+
+please fork this repositery and the post the issues.
+
 ## Deployment
